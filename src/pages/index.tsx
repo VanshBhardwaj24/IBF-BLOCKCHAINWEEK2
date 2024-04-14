@@ -16,14 +16,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <StarsCanvas />
-      <main className="z-[22]">
+      <main className="">
         <Hero />
-        <About />
         <EventTimeline />
+        <About />
         <Sponsors />
         <Footer />
       </main>
+      {/* <StarsCanvas /> */}
     </div>
   );
 }

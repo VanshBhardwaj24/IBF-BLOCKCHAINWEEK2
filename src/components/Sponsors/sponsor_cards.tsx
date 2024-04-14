@@ -24,7 +24,7 @@ export default function SponsorCards() {
           />
         </a>
         <a
-          href="https://shardeum.org/"
+          href="https://dorahacks.io"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -35,7 +35,7 @@ export default function SponsorCards() {
           />
         </a>
         <a
-          href="https://spheron.network/"
+          href="https://openbuild.xyz/"
           target="_blank"
           rel="noopener noreferrer"
         >
