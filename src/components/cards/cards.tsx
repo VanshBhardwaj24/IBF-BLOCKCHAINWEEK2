@@ -18,8 +18,8 @@ export default function Cards() {
               src={Solidity}
             />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
-              <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05] items-center justify-between leading-tight p-2 md:p-4">
+              <h3 className="text-2xl no-underline font-semibold text-black mx-auto ">
                 Solidity Bootcamp
               </h3>
             </header>
@@ -30,11 +30,11 @@ export default function Cards() {
           <article className="overflow-hidden rounded-lg shadow-lg">
             <Image
               alt="Placeholder"
-              className="block h-auto w-full"
+              className="block w-full h-[250px] bg-cyan-300 "
               src={Fifty}
             />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05]   items-center justify-between leading-tight p-2 md:p-4">
               <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
                 Limited
               </h3>
@@ -50,7 +50,7 @@ export default function Cards() {
               src={Merch}
             />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05] items-center justify-between leading-tight p-2 md:p-4">
               <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
                 Swags, Goodies, Refreshments
               </h3>
@@ -66,7 +66,7 @@ export default function Cards() {
               src={Battle}
             />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05] items-center justify-between leading-tight p-2 md:p-4">
               <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
                 Smart Contract Battle
               </h3>
@@ -82,7 +82,7 @@ export default function Cards() {
               src={Industry}
             />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05] items-center justify-between leading-tight p-2 md:p-4">
               <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
                 Meet Companies
               </h3>
@@ -94,7 +94,7 @@ export default function Cards() {
           <article className="overflow-hidden rounded-lg shadow-lg">
             <Image alt="Dapp" className="block h-auto w-full" src={Dapp} />
 
-            <header className="flex bg-white items-center justify-between leading-tight p-2 md:p-4">
+            <header className="flex bg-[#ff00c6] from-[#ff00c6] via-[#ff5478] to-[#ff8a05] items-center justify-between leading-tight p-2 md:p-4">
               <h3 className="text-2xl no-underline font-semibold text-black mx-auto">
                 Learn how to build Dapps
               </h3>

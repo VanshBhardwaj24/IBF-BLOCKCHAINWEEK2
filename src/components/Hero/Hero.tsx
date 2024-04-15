@@ -1,5 +1,6 @@
 import logo from "public/IBF_logo.png";
 import Image from "next/image";
+
 import Timer from "./timer";
 
 export default function Hero() {

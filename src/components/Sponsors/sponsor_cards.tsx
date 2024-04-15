@@ -13,7 +13,7 @@ export default function SponsorCards() {
 
       <section className="pt-1 md:grid grid-cols-3 ">
         <a
-          href="https://www.polygon.com/"
+          href="https://polygon.technology/"
           target="_blank"
           rel="noopener noreferrer"
         >
